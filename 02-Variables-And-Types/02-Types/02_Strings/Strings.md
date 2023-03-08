@@ -18,7 +18,7 @@ str = "Hello world"
 
 print(str) # Print the complete string - Hello World
 print(str[0]) # Prints the first character of the string - H
-print(str[2:5]) # Prints string from character 3 to 5 - llo
+print(str[2:5]) # Prints string from character 2 to 5 - llo
 print(str[3:]) # Prints string from character 3 to end - llo world
 ```
 
